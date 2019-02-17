@@ -252,7 +252,7 @@ USE_DEVICE_SPECIFIC_THERMAL := true
 TARGET_USES_MKE2FS := true
 
 # Security patch level
-VENDOR_SECURITY_PATCH := 2018-09-01
+VENDOR_SECURITY_PATCH := 2019-02-01
 
 # SELinux
 include device/qcom/sepolicy/sepolicy.mk
