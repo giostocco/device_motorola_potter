@@ -13,9 +13,9 @@
   },
   {
     "remote": "github",
-    "repository": "LineageOS/android_packages_resources_devicesettings",
-    "target_path": "packages/resources/devicesettings",
-    "branch": "lineage-16.0"
+    "repository": "eduardobastier93/android_packages_resources_MotoActions",
+    "target_path": "packages/resources/MotoActions",
+    "branch": "pie"
   },
   {
     "remote": "github",
